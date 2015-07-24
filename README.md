@@ -26,3 +26,5 @@
  git commit | Salva as modificações do stage no repositório
 
 
+### Other links
+[git cheat sheet](http://billcode-labs.github.io/git-cheat-sheet-en.html)
